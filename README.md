@@ -1,2 +1,2 @@
-# isoftware.io
-isoftware.io blog content
+# itconsultants.io
+itconsultants.io site content
